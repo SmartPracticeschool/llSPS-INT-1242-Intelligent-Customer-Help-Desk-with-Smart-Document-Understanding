@@ -8,9 +8,3 @@ In this project, there will be another option. If the customer question is about
 
 In Watson Discovery I have added ecobee3_userguide.
 
-I have uploaded a demo video of this project in my youtube channel. https://youtu.be/3ZL_BuPTXZ0
-
-Node_Red Dasboard link after deploying : https://node-red-hhzbi.eu-gb.mybluemix.net/ui
-Preview link of Watson Assistant : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=9c525ca9-3a80-4db6-86bc-406974e48fbd&serviceInstanceID=ae44476e-77ab-4578-9d11-23464ea66634
-
-Have a casual talks like hello,bye,good morning,etc,for(SDU) like how to set time,how to turn on heater,how to access setting,how to operate thermostat,how to set up thermostat only.
