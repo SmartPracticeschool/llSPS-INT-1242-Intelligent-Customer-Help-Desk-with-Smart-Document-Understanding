@@ -1,0 +1,15 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: noderedvqivh
+  buildpack: sdk-for-nodejs
+  command: npm start
+  disk_quota: 1G
+  memory: 192MB
+  domain: eu-gb.mybluemix.net
+  host: node-red-vqivh
+  services:
+    - node-red-vqivh-cloudant-1590893764401-18476
+  env:
+    OPTIMIZE_MEMORY: true
