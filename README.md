@@ -9,7 +9,9 @@ In this project, there will be another option. If the customer question is about
 
 In Watson Discovery I have added ecobee3_userguide.
 
-I have uploaded a project description and feedback video of this project in my youtube channel. https://youtu.be/Ub-0n3tcHHw
+I have uploaded a project description and feedback video of this project in my youtube channel link is given below:
+Project description Video: https://youtu.be/Ub-0n3tcHHw
+Feedback Video: https://youtu.be/WXnQpTGLZXo
 
 Node_Red Dasboard link after deploying : https://node-red-vqivh.eu-gb.mybluemix.net/ui
 
